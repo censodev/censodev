@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://gitstalk.netlify.app/censodev">
-    <img align="inherit" src="https://github-readme-stats.vercel.app/api?username=censodev&count_private=true&show_icons=true&theme=vue-dark">
-    <img align="inherit" src="https://github-readme-stats.vercel.app/api/top-langs/?username=censodev&theme=vue-dark&langs_count=20">
+    <img align="inherit" src="https://github-readme-stats.vercel.app/api?username=censodev&count_private=true&show_icons=true">
+    <img align="inherit" src="https://github-readme-stats.vercel.app/api/top-langs/?username=censodev&langs_count=20&&layout=compact">
   </a
 </div>
