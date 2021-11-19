@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=censodev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=censodev&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<div>
+  <a href="https://gitstalk.netlify.app/censodev">
+    <img align="inherit" src="https://github-readme-stats.vercel.app/api?username=censodev&count_private=true&show_icons=true&theme=vue-dark">
+    <img align="inherit" src="https://github-readme-stats.vercel.app/api/top-langs/?username=censodev&theme=vue-dark">
+  </a
+</div>
