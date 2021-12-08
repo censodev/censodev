@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://gitstalk.netlify.app/censodev">
-  <img align="inherit" src="https://github-readme-stats.vercel.app/api?username=censodev&count_private=true&show_icons=true">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=censodev)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=censodev&count_private=true&show_icons=true">
 </a
