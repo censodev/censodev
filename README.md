@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 <a href="https://gitstalk.netlify.app/censodev">
   <img src="https://github-readme-stats.vercel.app/api?username=censodev&count_private=true&show_icons=true">
+</a
+<a href="https://gitstalk.netlify.app/censodev">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=censodev&layout=compact&hide=html,css">
 </a
-  
